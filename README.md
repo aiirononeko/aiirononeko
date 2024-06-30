@@ -3,7 +3,7 @@
 🔭 I'm currently working on:
 - Developing a B2B CMS & MA tool at GIG Inc
 - Engaged in contract development at toraco
-- Solo developing two services: Gamepity and ReserveEase
+- Solo developing two services: [Gamepity](https://www.gamepity.com) and [ReserveEase](https://www.reserve-ease.com)
 
 🌱 I'm proficient in:
 - TypeScript, React, Next.js
