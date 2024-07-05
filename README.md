@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[Wantedly](https://www.wantedly.com/id/ryou_katada)
+
 🔭 I'm currently working on:
 - Developing a B2B CMS & MA tool at GIG Inc
 - Engaged in contract development at toraco
