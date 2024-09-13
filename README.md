@@ -8,8 +8,6 @@ Hi, I'm an Software Engineer. 🤝
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,nodejs,aws,git,github,figma" />
 
 ## 📈 Status
-Here's a snapshot of my GitHub activity and most used languages:
-
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiirononeko&layout=compact&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=aiirononeko" />
