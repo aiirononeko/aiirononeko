@@ -1,41 +1,31 @@
-## Hi there 👋
+## 🌕 About Ryota Katada
+Hi, I'm an illustrator and JavaScript engineer. 🤝
 
-[Wantedly](https://www.wantedly.com/id/ryou_katada)
+### 🌱 my skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,jquery,nodejs,react,nextjs,gatsbyjs,vue,astro,sass,tailwind,vite,webpack,supabase,firebase,vercel,netlify,aws,git,github,githubactions,figma" />
 
-🔭 I'm currently working on:
-- Developing a B2B CMS & MA tool at GIG Inc
-- Engaged in contract development at toraco
-- Solo developing two services: [Gamepity](https://www.gamepity.com) and [ReserveEase](https://www.reserve-ease.com)
 
-🌱 I'm proficient in:
-- TypeScript, React, Next.js
-- Neovim
-- Full-stack development (Frontend, Backend, Infrastructure)
-- Integration of services like Supabase, Stripe, and Resend
+## 📈 Status
+[![Followers](https://badgen.org/img/zenn/rabbit/followers?style=flat)](https://zenn.dev/rabbit)
 
-👯 I'm looking to collaborate on:
-- Zero to one projects in any field
-- Opportunities to scale and improve product quality
-- Innovative ideas that challenge the status quo
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsuki-lab&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tsuki-lab" />
+</p>
 
-🤔 I'm looking to expand my knowledge in:
-- Advanced web frontend technologies and best practices
-- AI integration for efficient product development and business optimization
-- Business growth strategies and product scaling techniques
-- Security best practices for safe service operations
-- Any skills that contribute to successful product development and business operations
+## 📨 Contact me.
 
-💬 Ask me about:
-- My experience in developing and launching solo projects
-- Technical challenges and solutions in my products (Gamepity and ReserveEase)
-- Business strategies for indie developers
-- Balancing full-time work with personal projects
+**[Twitter - @aiirononeko2](https://twitter.com/aiirononeko2)** | **[Tech Blog](https://www.kissa-katada.com)**
 
-📫 How to reach me:
-- Twitter/X: Direct message [@aiirononeko2](https://x.com/aiirononeko2)
+<!--
+**tsuki-lab/tsuki-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-⚡ Fun facts:
-- I spend about 60% of my non-work, non-sleep time coding or thinking about business
-- My dream is to become wealthy through growing my personal services (open to starting a company or selling a business)
-- I'm passionate about creating things that sell and improve society/daily life
-- Always on the lookout for the next big idea that can make a difference!
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- 🙌 I’m looking for help with [grow-files](https://github.com/tsuki-lab/grow-files) and [microcms-filter-query](https://github.com/tsuki-lab/microcms-filter-query)
+-->
