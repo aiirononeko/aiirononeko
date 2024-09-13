@@ -15,6 +15,8 @@ Here's a snapshot of my GitHub activity and most used languages:
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=aiirononeko" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=aiirononeko&margin-w=5)](https://github.com/aiirononeko/)
+
 ## 📨 Contact me
 I'm always open to interesting conversations and opportunities. Feel free to reach out to me through:
 
