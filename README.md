@@ -1,5 +1,5 @@
 ## ☕️ About Ryota Katada
-Hi, I'm an Software Developer. 🤝
+Hi, I'm a Software Developer. 🤝
 
 ### ✨ Favorite skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,react,remix,nextjs,tailwind,vite,supabase,cloudflare,vercel" />
